@@ -1,0 +1,8 @@
+{
+  "name": "AI Budget Tracker",
+  "description": "A smart finance tracking application featuring AI-powered receipt scanning, voice expense entry, and financial advice powered by Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
